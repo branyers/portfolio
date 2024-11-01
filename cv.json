@@ -1,0 +1,380 @@
+{
+  "basics": {
+    "name": "Branyes Nuñez Abad",
+    "label": "Full Stack Developer with over 4 years of experience.",
+    "image": "https://firebasestorage.googleapis.com/v0/b/minimapapi.appspot.com/o/actors%2FprofileImages_115aba42-e19d-40be-9843-cec515fdc916.jpeg?alt=media&token=0fbb860c-6a58-4bbf-be22-5d9a8d5ec852",
+    "email": "branyernunez@gmail.com",
+    "phone": "849-652-7872",
+    "url": "",
+    "summary": "With over 4 years of experience in the technology sector, I've worked across multiple industries, including Finance, Telecommunications, ERP, and Insurance. I have extensive expertise in Quality Assurance (QA), covering both manual and automated testing with tools such as Selenium, Katalon Studio, Rational Functional Testing, Appium, and PyAutoGUI. Currently, as a Web Developer and Agile Team Lead, I leverage Java Spring Boot, ASP.NET, React.js, PostgreSQL, SQL Server, Python, and Azure Face Recognition, among other tools, to deliver robust and scalable solutions.",
+    "location": {
+      "address": "",
+      "postalCode": "01904",
+      "city": "40 Waverly St, Lynn, MA",
+      "countryCode": "USA",
+      "region": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Branyes Núñez Abad ",
+        "url": "https://www.linkedin.com/in/branyes-n%C3%BA%C3%B1ez-abad-bb0875160/"
+      },
+      {
+        "network": "GitHub",
+        "username": "midudev",
+        "url": "https://github.com/branyers"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Disoft",
+      "position": "Admin Database",
+      "url": "https://www.facebook.com/DisoftSrl/",
+      "startDate": "2019-05-01",
+      "endDate": "2019-11-12",
+      "summary": "I was responsible for database maintenance, creating backups, generating reports with Crystal Reports and Firebird, and managing all database-related tasks.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "BHD Bank",
+      "position": "Mobile Automation Lead",
+      "url": "https://bhd.com.do/",
+      "startDate": "2019-11-18",
+      "endDate": "2021-03-15",
+      "summary": "I was responsible for mobile application automation using tools like Appium with Katalon Studio, Java, and Android Studio. Additionally, I automated a desktop application with Rational Functional Testing using Java and led the mobile automation team.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Claro Dominicana",
+      "position": "Senior Automation Engineer",
+      "url": "https://www.claro.com.do/",
+      "startDate": "2021-03-01",
+      "endDate": "2022-08-01",
+      "summary": "I was responsible for automating the company’s most critical desktop applications and also served as the supervisor for the API and microservices automation team. I contributed significantly by introducing automation practices to the company, which previously had none. I established automation standards, developed guidelines, and created a framework using Java and Selenium to maintain these standards, as well as a reporting system to visualize automation results.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Humano Seguros",
+      "position": "Senior Automation Engineer",
+      "url": "https://humanonews.humano.com.do/estamos-mas-cerca-de-ti-con-nuestros-kioscos-de-autoservicios/",
+      "startDate": "2022-09-05",
+      "endDate": "2023-08-01",
+      "summary": "I was responsible for automating one of the company’s most important and innovative products: a self-service kiosk device equipped with AI for document and facial recognition, designed to assist elderly users with process completion through artificial intelligence. As the automation lead for this project, I added significant value to QA by implementing automation standards, building an automation framework, and creating a reporting system to track automation results. When I took over, the company had no automation standards, and today, thanks to my contributions, the application is in one of its best QA states. Tools used included Java, Selenium, TestNG Reporter Log, and Extent Reports, among others.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Humano Seguros",
+      "position": "Senior Sofware Engineer",
+      "url": "https://humanonews.humano.com.do/estamos-mas-cerca-de-ti-con-nuestros-kioscos-de-autoservicios/",
+      "startDate": "2023-01-05",
+      "endDate": null,
+      "summary": "Thanks to my contributions to the Kiosk Automation project, I advanced to Senior Developer and took on leadership for the development team. I drove quality improvements and feature development for the application, including one of the most in-demand features in the market—a service for purchasing car and travel insurance directly through the app. This feature, previously only available on mobile apps, was considered challenging to implement in the kiosk environment. However, through significant efforts, the application now successfully offers these options, making it highly competitive and driving strong revenue in the commercial market. It is now ranked as the company's second-highest revenue-generating application, behind only the mobile apps, after initially being ranked sixth. Tools used include React.js, TypeScript, Java Spring Boot, ASP.NET, PostgreSQL, Python, Azure Face Recognition, among others that keep the application interactive and cutting-edge.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [{
+    "organization": "Organization",
+    "position": "Volunteer",
+    "url": "https://organization.com/",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Description…",
+    "highlights": [
+      "Awarded 'Volunteer of the Month'"
+    ]
+  }],
+  "education": [{
+    "institution": "Technological Institute of the Americas (ITLA)",
+    "url": "https://itla.edu.do/",
+    "area": "Software Engeneering",
+    "studyType": "Bachelor",
+    "startDate": "2017-01-07",
+    "endDate": "2019-08-10",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+  {
+    "institution": "Dominican American University (Unicda)",
+    "url": "https://unicda.edu.do/",
+    "area": "Software Engeneering",
+    "studyType": "Master",
+    "startDate": "2021-09-01",
+    "endDate": null,
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+
+  {
+    "institution": "Academlo",
+    "url": "https://www.academlo.com/",
+    "area": "Web Deveolper Full Stack",
+    "studyType": "Master",
+    "startDate": "2020-11-01",
+    "endDate": "2022-03-20",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+  {
+    "institution": "English Immersion Program at UASD",
+    "url": "https://mescyt.gob.do/programas/ingles-de-inmersion/",
+    "area": "English Immersion Program",
+    "studyType": "Master",
+    "startDate": "2019-01-05",
+    "endDate": "2019-11-21",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+
+  {
+    "institution": "Platzi Programming School",
+    "url": "https://mescyt.gob.do/programas/ingles-de-inmersion/",
+    "area": "Software Engeneering",
+    "studyType": "Master",
+    "startDate": "2020-01-05",
+    "endDate": null,
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  },
+
+  {
+    "institution": "ISTQB Certification",
+    "url": "",
+    "area": "QA Tester",
+    "studyType": "Master",
+    "startDate": "2019-01-05",
+    "endDate": "2019-11-21",
+    "score": "4.0",
+    "courses": [
+      "DB1101 - Basic SQL"
+    ]
+  }
+
+],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Selenium",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+
+    {
+      "name": "Appium",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Katalon Studio",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "mars.codes",
+      "isActive": true,
+      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "highlights": [
+        "Elige tu propia aventura",
+        "En desarrollo"
+      ],
+      "url": "https://mars.codes"
+    },
+    {
+      "name": "AdventJS",
+      "isActive": true,
+      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "highlights": [
+        "+1 millón de visitas",
+        "Multidioma",
+        "JavaScript & TypeScript"
+      ],
+      "url": "https://adventjs.dev"
+    },
+    {
+      "name": "Codember",
+      "isActive": true,
+      "description": "Juego interactivo de programación con retos y secretos",
+      "highlights": [
+        "+2000 usuarios activos",
+        "Retos para cualquier lenguaje"
+      ],
+      "url": "https://codember.dev"
+    },
+    {
+      "name": "codi.link",
+      "isActive": true,
+      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "highlights": [
+        "100k visitas al mes",
+        "Desarrollado por la comunidad"
+      ],
+      "url": "https://codi.link",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Pruebas Técnicas",
+      "isActive": true,
+      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "highlights": [
+        "100% gratuito",
+        "+500 soluciones de la comunidad"
+      ],
+      "url": "https://pruebastecnicas.com",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "miduConf",
+      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+      "highlights": [
+        "+15k tickets repartidos",
+        "+50k espectadores en directo"
+      ],
+      "url": "https://miduconf.com"
+    }
+  ]
+}
