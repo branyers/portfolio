@@ -82,6 +82,18 @@
       "highlights": [
         "Started the company"
       ]
+    },
+
+    {
+      "name": "Dacodes",
+      "position": "Python Developer Intern",
+      "url": "https://dacodes.com/",
+      "startDate": "2022-04-05",
+      "endDate": "2023-03,17",
+      "summary": "I worked here after finishing my studies at Academlo, putting into practice the knowledge I gained in JavaScript and Python with Django. Here, we developed an application for a school.",
+      "highlights": [
+        "Started the company"
+      ]
     }
   ],
   "volunteer": [{
