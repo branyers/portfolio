@@ -94,6 +94,32 @@
       "highlights": [
         "Started the company"
       ]
+    },
+    {
+      "name": "Banco Santa Cruz",
+      "position": "Customer Service Representative",
+      "url": "https://www.bsc.com.do/",
+      "startDate": "2017-01-01",
+      "endDate": "2018-01-01",
+      "summary": "As part of the collections and customer service team, I was responsible for contacting clients to remind them of upcoming loan and credit card payments, ensuring timely payments and helping them avoid late fees or penalties.",
+      "highlights": [
+        "Effectively reduced customer delinquency rates through proactive outreach.",
+        "Maintained high customer satisfaction scores by delivering clear and respectful communication.",
+        "Provided account information and guidance on payment options."
+      ]
+    },
+    {
+      "name": "Punto Mac",
+      "position": "Customer Service and Mac Technician",
+      "url": "https://puntomac.com.do/",
+      "startDate": "2016-01-01",
+      "endDate": "2017-01-01",
+      "summary": "I initially served as a Customer Service Representative, receiving and documenting Apple devices brought in for repairs. Later, I was promoted to Mac Technician, responsible for diagnosing and repairing hardware and software issues in MacBook, iMac, and other Apple products.",
+      "highlights": [
+        "Provided front-line technical support and intake for service requests.",
+        "Performed diagnostics, repairs, and system restorations on Mac devices.",
+        "Maintained customer communication throughout the repair process to ensure transparency and satisfaction."
+      ]
     }
   ],
   "volunteer": [{
