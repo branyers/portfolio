@@ -1,0 +1,35 @@
+---
+import Section from "../Section.astro";
+import { strengths } from "@cv";
+---
+
+<Section title="Strengths">
+  <ul class="bulleted-list">
+    {
+      strengths.map((strength) => (
+        <li>
+          <span>{strength}</span>
+        </li>
+      ))
+    }
+  </ul>
+</Section>
+
+<style>
+  .bulleted-list {
+    display: block;
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    margin: 1rem 0;
+  }
+
+  .bulleted-list li {
+    background: transparent;
+    border-radius: 0;
+    color: inherit;
+    display: list-item;
+    font-size: 0.9rem;
+    padding: 0.2rem 0;
+    margin-bottom: 0.5rem;
+  }
+</style>

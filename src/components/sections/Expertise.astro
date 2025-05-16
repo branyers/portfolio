@@ -1,0 +1,77 @@
+---
+import Section from "../Section.astro";
+import { expertise } from "@cv";
+---
+
+<Section title="Expertise">
+  <div class="expertise-container">
+    <div class="expertise-area">
+      <h3>Web Development</h3>
+      <ul class="bulleted-list">
+        {
+          expertise.webDevelopment.map((item) => (
+            <li>
+              <span>{item}</span>
+            </li>
+          ))
+        }
+      </ul>
+    </div>
+    <div class="expertise-area">
+      <h3>Application Development</h3>
+      <ul class="bulleted-list">
+        <li><span>React.js for single-page applications</span></li>
+        <li><span>React Native for cross-platform mobile apps</span></li>
+        <li><span>Python for backend and data processing</span></li>
+        <li><span>.NET frameworks for enterprise applications</span></li>
+        <li><span>Java Spring Boot for scalable microservices</span></li>
+        <li><span>Firebase for real-time applications</span></li>
+        <li><span>REST API design and implementation</span></li>
+      </ul>
+    </div>
+    <div class="expertise-area">
+      <h3>Testing and Automation</h3>
+      <ul class="bulleted-list">
+        <li><span>Selenium WebDriver for web application testing</span></li>
+        <li><span>Appium for mobile application automation</span></li>
+        <li><span>Rational Functional Testing for desktop apps</span></li>
+        <li><span>JMeter for performance and load testing</span></li>
+        <li><span>Katalon Studio for comprehensive test automation</span></li>
+        <li><span>TestNG and JUnit for test frameworks</span></li>
+        <li><span>Continuous Integration with Jenkins and GitHub Actions</span></li>
+        <li><span>API testing with Postman and RestAssured</span></li>
+      </ul>
+    </div>
+  </div>
+</Section>
+
+<style>
+  .expertise-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .expertise-area h3 {
+    margin-bottom: 1rem;
+    font-weight: 700;
+    font-size: 1.1rem;
+  }
+
+  .bulleted-list {
+    display: block;
+    list-style-type: disc;
+    padding-left: 1.5rem;
+    margin: 1rem 0;
+  }
+
+  .bulleted-list li {
+    background: transparent;
+    border-radius: 0;
+    color: inherit;
+    display: list-item;
+    font-size: 0.9rem;
+    padding: 0.2rem 0;
+    margin-bottom: 0.5rem;
+  }
+</style>

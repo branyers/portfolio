@@ -413,5 +413,28 @@
       ],
       "url": "https://miduconf.com"
     }
-  ]
+  ],
+  "strengths": [
+    "Problem-solving and analytical thinking",
+    "Strong communication and teamwork skills",
+    "Adaptability to new technologies and environments",
+    "Attention to detail and commitment to quality",
+    "Leadership and mentoring in Agile teams"
+  ],
+  "expertise": {
+    "webDevelopment": [
+      "Frontend development with React.js, Next.js, and Tailwind CSS",
+      "Backend development with Node.js, Java Spring Boot, and ASP.NET",
+      "Database management with PostgreSQL, MySQL, and SQL Server",
+      "Responsive design and cross-browser compatibility",
+      "Version control with Git and GitHub"
+    ],
+    "applicationDevelopment": [
+      "Mobile application automation with Appium and Katalon Studio",
+      "Desktop application automation with Selenium and Rational Functional Testing",
+      "API and microservices testing and automation",
+      "Integration of AI tools like Azure Face Recognition",
+      "Building scalable and maintainable application architectures"
+    ]
+  }
 }
