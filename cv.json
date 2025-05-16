@@ -34,7 +34,12 @@
       "url": "https://humanonews.humano.com.do/estamos-mas-cerca-de-ti-con-nuestros-kioscos-de-autoservicios/",
       "startDate": "2023-01-05",
       "endDate": null,
-      "summary": "Advanced to Senior Developer and took on leadership for the development team after contributing significantly to the Kiosk Automation project. Drove quality improvements and feature development, including implementing high-demand services for purchasing car and travel insurance directly through the app. This feature, previously only available on mobile apps, helped elevate the application from sixth to second-highest revenue-generating application in the company. Technologies used include React.js, TypeScript, Java Spring Boot, ASP.NET, PostgreSQL, Python, and Azure Face Recognition."
+      "summary": "Advanced to Senior Developer and took on leadership for the development team after contributing significantly to the Kiosk Automation project. Drove quality improvements and feature development, including implementing high-demand services for purchasing car and travel insurance directly through the app. This feature, previously only available on mobile apps, helped elevate the application from sixth to second-highest revenue-generating application in the company. Technologies used include React.js, TypeScript, Java Spring Boot, ASP.NET, PostgreSQL, Python, and Azure Face Recognition.",
+      "highlights": [
+        "Led development team for the innovative Kiosk application",
+        "Implemented car and travel insurance purchasing services",
+        "Elevated application from 6th to 2nd highest revenue-generating product"
+      ]
     },
     {
       "name": "Humano Seguros",
@@ -42,7 +47,12 @@
       "url": "https://humanonews.humano.com.do/estamos-mas-cerca-de-ti-con-nuestros-kioscos-de-autoservicios/",
       "startDate": "2022-09-05",
       "endDate": "2023-08-01",
-      "summary": "Led automation for the company's innovative self-service kiosk equipped with AI for document and facial recognition. Implemented automation standards, built a comprehensive framework, and created a reporting system to track results. Significantly improved QA processes by introducing automation where none previously existed. Tools used included Java, Selenium, TestNG Reporter Log, and Extent Reports."
+      "summary": "Led automation for the company's innovative self-service kiosk equipped with AI for document and facial recognition. Implemented automation standards, built a comprehensive framework, and created a reporting system to track results. Significantly improved QA processes by introducing automation where none previously existed. Tools used included Java, Selenium, TestNG Reporter Log, and Extent Reports.",
+      "highlights": [
+        "Introduced automation standards to previously manual QA processes",
+        "Built comprehensive automation framework for kiosk application",
+        "Developed reporting system for tracking automation results"
+      ]
     },
     {
       "name": "Claro Dominicana",
@@ -50,7 +60,12 @@
       "url": "https://www.claro.com.do/",
       "startDate": "2021-03-01",
       "endDate": "2022-08-01",
-      "summary": "Automated critical desktop applications and supervised the API and microservices automation team. Introduced automation practices to the company, established standards, developed guidelines, and created a framework using Java and Selenium to maintain these standards. Implemented a reporting system to visualize automation results."
+      "summary": "Automated critical desktop applications and supervised the API and microservices automation team. Introduced automation practices to the company, established standards, developed guidelines, and created a framework using Java and Selenium to maintain these standards. Implemented a reporting system to visualize automation results.",
+      "highlights": [
+        "Established company's first automation standards and practices",
+        "Supervised API and microservices automation team",
+        "Created Java/Selenium framework and reporting system"
+      ]
     },
     {
       "name": "Dacodes",
@@ -58,7 +73,12 @@
       "url": "https://dacodes.com/",
       "startDate": "2022-04-05",
       "endDate": "2023-03-17",
-      "summary": "Applied knowledge gained in JavaScript and Python with Django to develop an application for a school, putting into practice skills acquired at Academlo."
+      "summary": "Applied knowledge gained in JavaScript and Python with Django to develop an application for a school, putting into practice skills acquired at Academlo.",
+      "highlights": [
+        "Developed school management application using Django",
+        "Applied JavaScript and Python skills in real-world project",
+        "Collaborated with development team on feature implementation"
+      ]
     },
     {
       "name": "BHD Bank",
@@ -66,7 +86,12 @@
       "url": "https://bhd.com.do/",
       "startDate": "2019-11-18",
       "endDate": "2021-03-15",
-      "summary": "Led mobile application automation using Appium with Katalon Studio, Java, and Android Studio. Additionally automated desktop applications with Rational Functional Testing using Java and managed the mobile automation team."
+      "summary": "Led mobile application automation using Appium with Katalon Studio, Java, and Android Studio. Additionally automated desktop applications with Rational Functional Testing using Java and managed the mobile automation team.",
+      "highlights": [
+        "Led mobile automation team and established testing standards",
+        "Implemented Appium and Katalon Studio for mobile testing",
+        "Automated desktop applications using Rational Functional Testing"
+      ]
     },
     {
       "name": "Disoft",
@@ -74,7 +99,12 @@
       "url": "https://www.facebook.com/DisoftSrl/",
       "startDate": "2019-05-01",
       "endDate": "2019-11-12",
-      "summary": "Managed database maintenance, created backups, generated reports with Crystal Reports and Firebird, and handled all database-related tasks."
+      "summary": "Managed database maintenance, created backups, generated reports with Crystal Reports and Firebird, and handled all database-related tasks.",
+      "highlights": [
+        "Implemented database backup and recovery procedures",
+        "Created custom reports using Crystal Reports",
+        "Managed Firebird database maintenance and optimization"
+      ]
     },
     {
       "name": "Banco Santa Cruz",
@@ -82,7 +112,12 @@
       "url": "https://www.bsc.com.do/",
       "startDate": "2017-01-01",
       "endDate": "2018-01-01",
-      "summary": "Served on the collections and customer service team, contacting clients about upcoming loan and credit card payments to ensure timely payments and help avoid late fees. Effectively reduced delinquency rates through proactive outreach while maintaining high customer satisfaction scores."
+      "summary": "Served on the collections and customer service team, contacting clients about upcoming loan and credit card payments to ensure timely payments and help avoid late fees. Effectively reduced delinquency rates through proactive outreach while maintaining high customer satisfaction scores.",
+      "highlights": [
+        "Reduced customer delinquency rates through proactive outreach",
+        "Maintained high customer satisfaction scores",
+        "Provided guidance on payment options and account information"
+      ]
     },
     {
       "name": "Punto Mac",
@@ -90,7 +125,12 @@
       "url": "https://puntomac.com.do/",
       "startDate": "2016-01-01",
       "endDate": "2017-01-01",
-      "summary": "Initially served as a Customer Service Representative before promotion to Mac Technician. Responsible for diagnosing and repairing hardware and software issues in MacBook, iMac, and other Apple products. Maintained clear customer communication throughout the repair process."
+      "summary": "Initially served as a Customer Service Representative before promotion to Mac Technician. Responsible for diagnosing and repairing hardware and software issues in MacBook, iMac, and other Apple products. Maintained clear customer communication throughout the repair process.",
+      "highlights": [
+        "Promoted from Customer Service to Mac Technician role",
+        "Diagnosed and repaired hardware and software issues in Apple products",
+        "Maintained transparent customer communication during repair process"
+      ]
     }
   ],
   "education": [
