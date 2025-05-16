@@ -2,11 +2,11 @@
   "basics": {
     "name": "Branyes Nuñez Abad",
     "label": "Full Stack Developer with over 4 years of experience.",
-    "image": "https://firebasestorage.googleapis.com/v0/b/minimapapi.appspot.com/o/actors%2FprofileImages_115aba42-e19d-40be-9843-cec515fdc916.jpeg?alt=media&token=0fbb860c-6a58-4bbf-be22-5d9a8d5ec852",
+    "image": "https://firebasestorage.googleapis.com/v0/b/minimapapi.appspot.com/o/actors%2Fmylogo.png?alt=media&token=997937bf-6ecb-463b-9eee-c7587c11988e",
     "email": "branyernunez@gmail.com",
     "phone": "781-710-2369",
     "url": "",
-    "summary": "With over 4 years of experience in the technology sector, I've worked across multiple industries, including Finance, Telecommunications, ERP, and Insurance. I have extensive expertise in Quality Assurance (QA), covering both manual and automated testing with tools such as Selenium, Katalon Studio, Rational Functional Testing, Appium, and PyAutoGUI. Currently, as a Web Developer and Agile Team Lead, I leverage Java Spring Boot, ASP.NET, React.js, PostgreSQL, SQL Server, Python, and Azure Face Recognition, among other tools, to deliver robust and scalable solutions.",
+    "summary": "I am a highly skilled Full Stack Developer with over 4 years of experience in the technology sector, spanning industries such as Finance, Telecommunications, ERP, and Insurance. My expertise includes Quality Assurance (QA), both manual and automated, using tools like Selenium, Katalon Studio, Rational Functional Testing, Appium, and PyAutoGUI. As a Web Developer and Agile Team Lead, I specialize in delivering robust and scalable solutions using technologies such as Java Spring Boot, ASP.NET, React.js, PostgreSQL, SQL Server, Python, and Azure Face Recognition. Additionally, I have extensive experience in technical support and computer repair, including diagnosing and resolving hardware and software issues, ensuring optimal system performance, and maintaining high customer satisfaction. My diverse skill set and dedication to excellence make me a valuable asset to any team.",
     "location": {
       "address": "",
       "postalCode": "01904",
@@ -83,7 +83,6 @@
         "Started the company"
       ]
     },
-
     {
       "name": "Dacodes",
       "position": "Python Developer Intern",
@@ -94,6 +93,22 @@
       "highlights": [
         "Started the company"
       ]
+    },
+    {
+      "name": "Banco Santa Cruz",
+      "position": "Customer Service Representative",
+      "url": "https://www.bsc.com.do/",
+      "startDate": "2017-01-01",
+      "endDate": "2018-01-01",
+      "summary": "Served on the collections and customer service team, contacting clients about upcoming loan and credit card payments to ensure timely payments and help avoid late fees. Effectively reduced delinquency rates through proactive outreach while maintaining high customer satisfaction scores."
+    },
+    {
+      "name": "Punto Mac",
+      "position": "Customer Service and Mac Technician",
+      "url": "https://puntomac.com.do/",
+      "startDate": "2016-01-01",
+      "endDate": "2017-01-01",
+      "summary": "Initially served as a Customer Service Representative before promotion to Mac Technician. Responsible for diagnosing and repairing hardware and software issues in MacBook, iMac, and other Apple products. Maintained clear customer communication throughout the repair process."
     }
   ],
   "volunteer": [{
@@ -302,6 +317,17 @@
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
+    },
+    {
+      "name": "Technical Support and Computer Repair",
+      "level": "Expert",
+      "keywords": [
+        "Hardware Diagnostics",
+        "Software Troubleshooting",
+        "Customer Support",
+        "System Optimization"
+      ],
+      "icon": "https://example.com/icons/technical-support.svg"
     }
   ],
   "languages": [
