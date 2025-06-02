@@ -29,6 +29,19 @@
   },
   "work": [
     {
+      "name": "Rich's Products Corporation",
+      "position": "Machine Operator",
+      "url": "https://www.richs.com/",
+      "startDate": "2025-05-20",
+      "endDate": null,
+      "summary": "Operating and maintaining advanced manufacturing equipment in Rich's cookie production facility. Responsible for ensuring product quality, maintaining safety standards, and optimizing machine performance in the production of premium baked goods. Rich's is a global leader in food solutions and one of the world's largest family-owned food companies.",
+      "highlights": [
+        "Ensuring efficient operation of cookie production equipment",
+        "Maintaining quality control standards",
+        "Contributing to workplace safety initiatives"
+      ]
+    },
+    {
       "name": "Disoft",
       "position": "Admin Database",
       "url": "https://www.facebook.com/DisoftSrl/",

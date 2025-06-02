@@ -42,4 +42,40 @@ const { name, label } = basics
       padding: 2rem;
     }
   }
+
+  @media print {
+    main {
+      padding: 0;
+      margin: 0;
+      width: 100%;
+    }
+
+    /* Ensure proper page breaks */
+    section {
+      page-break-inside: avoid;
+      margin-bottom: 2rem;
+    }
+
+    /* Hide interactive elements when printing */
+    :global(button),
+    :global(.no-print) {
+      display: none !important;
+    }
+
+    /* Adjust colors for better printing */
+    :global(body) {
+      color: #000;
+      background: #fff;
+    }
+
+    /* Ensure text is readable in print */
+    :global(h1), :global(h2), :global(h3) {
+      color: #000;
+    }
+
+    :global(a) {
+      color: #000;
+      text-decoration: underline;
+    }
+  }
 </style>

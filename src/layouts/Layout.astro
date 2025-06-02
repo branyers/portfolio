@@ -32,6 +32,29 @@ const { image, summary, url } = basics
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={summary} />
     <meta name="twitter:image" content="" />
+
+    <!-- Print optimization -->
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="date=no">
+    <meta name="format-detection" content="address=no">
+    
+    <!-- Print styling -->
+    <style is:global>
+      @page {
+        size: auto;
+        margin: 0.5in;
+      }
+      
+      @media print {
+        html, body {
+          font-size: 12pt;
+        }
+        
+        .page-break {
+          page-break-before: always;
+        }
+      }
+    </style>
   </head>
   <body>
     <slot />
