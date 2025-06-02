@@ -42,6 +42,17 @@
       ]
     },
     {
+      "name": "Humano Seguros",
+      "position": "Sofware Engineer",
+      "url": "https://humanonews.humano.com.do/estamos-mas-cerca-de-ti-con-nuestros-kioscos-de-autoservicios/",
+      "startDate": "2023-01-05",
+      "endDate": null,
+      "summary": "Thanks to my contributions to the Kiosk Automation project, I advanced to Senior Developer and took on leadership for the development team. I drove quality improvements and feature development for the application, including one of the most in-demand features in the market—a service for purchasing car and travel insurance directly through the app. This feature, previously only available on mobile apps, was considered challenging to implement in the kiosk environment. However, through significant efforts, the application now successfully offers these options, making it highly competitive and driving strong revenue in the commercial market. It is now ranked as the company's second-highest revenue-generating application, behind only the mobile apps, after initially being ranked sixth. Tools used include React.js, TypeScript, Java Spring Boot, ASP.NET, PostgreSQL, Python, Azure Face Recognition, among others that keep the application interactive and cutting-edge.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
       "name": "Disoft",
       "position": "Admin Database",
       "url": "https://www.facebook.com/DisoftSrl/",
